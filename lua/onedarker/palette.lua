@@ -1,6 +1,6 @@
 local colors = {
   fg = "#abb2bf",
-  bg = "#1e222a",
+  bg = "#07060b",
   alt_fg = "#8b92a8",
   alt_bg = "#1b1f27",
   line = "#282C34",
@@ -28,7 +28,7 @@ local colors = {
   info = "#1cbc9b",
   hint = "#4bc1fe",
   error_bg = "#31262d",
-  warn_bg = "#32302f",
+  warn_bg = "#07060b",
   info_bg = "#1e3135",
   hint_bg = "#22323f",
   reference = "#2e303b",
